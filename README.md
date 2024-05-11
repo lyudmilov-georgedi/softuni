@@ -1,2 +1,1 @@
-# SoftUni-Python
-# SoftUni-Python
+# SoftUni Python Basics
