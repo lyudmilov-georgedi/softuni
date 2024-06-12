@@ -4,4 +4,4 @@ My Courses & Certificates
 
 | Course                         | Certificate Link                                                  |
 |--------------------------------|-------------------------------------------------------------------|
-| Programming Basics with Python | [Certificate 1](https://softuni.bg/certificates/details/216513/e0e9f9fa)                 |
+| Programming Basics with Python | [Link](https://softuni.bg/certificates/details/216513/e0e9f9fa)                 |
