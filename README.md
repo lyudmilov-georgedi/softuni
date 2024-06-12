@@ -5,4 +5,3 @@
 | Course                         | Certificate Link                                                  |
 |--------------------------------|-------------------------------------------------------------------|
 | Programming Basics with Python | [Link](https://softuni.bg/certificates/details/216513/e0e9f9fa)                 |
-| Programming Basics with Python | <a href="https://softuni.bg/certificates/details/216513/e0e9f9fa" target="_blank">Link</a> |
